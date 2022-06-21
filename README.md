@@ -1,1 +1,1 @@
-semver-helm-chart
+semver-helm-chart test
