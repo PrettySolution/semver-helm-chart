@@ -1,0 +1,8 @@
+# See https://github.com/helm/chart-testing#configuration
+remote: origin
+target-branch: main
+chart-dirs:
+  - charts
+chart-repos:
+  - cortex=https://prettysolution.github.io/semver-helm-chart
+helm-extra-args: --timeout 600s
