@@ -1,1 +1,1 @@
-cortex
+semver-helm-chart
